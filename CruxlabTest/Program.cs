@@ -14,7 +14,7 @@ namespace CruxlabTest
         {
 
 
-            string filePath = "C:\\Users\\kosho\\source\\repos\\CruxlabTest\\CruxlabTest\\FIle\\RequirementsWithPassword.txt"; // file path
+            string filePath = "yourFilePath.txt/.json/.xml..."; // file path
 
             // using Regular Expression
             int validPasswordsCount = CountValidPasswords(filePath);
